@@ -1,0 +1,25 @@
+generated: '2026-07-18'
+method: searched
+source: https://registry.npmjs.org / https://github.com/deworkxyz
+notes: >-
+  Registry sweep (npm, PyPI, RubyGems, crates.io, pkg.go.dev) for first-party
+  Dework client libraries. Dework exposes an internal GraphQL API
+  (api.dework.xyz/graphql) but publishes no official API client SDK. The one
+  clearly first-party npm package under the deworkxyz org is the on-chain
+  smart-contract bindings below; it is not an API client SDK. PyPI/dework is
+  unrelated (404 for the org). rich-markdown-editor under the org is a fork of
+  outline/rich-markdown-editor (UI editor), not published as a Dework client
+  library, so it is excluded.
+packages:
+- language: javascript
+  registry: npm
+  name: dework-contracts
+  url: https://www.npmjs.com/package/dework-contracts
+  install: npm install dework-contracts
+  version: 0.0.1
+  repository: https://github.com/deworkxyz/contracts
+  official: true
+  kind: smart-contract-bindings
+  description: >-
+    First-party Dework on-chain smart-contract package (deworkxyz/contracts).
+    Not an API client SDK.

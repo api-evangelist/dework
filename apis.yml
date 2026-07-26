@@ -1,8 +1,16 @@
 aid: dework
 name: Dework
-description: 'Dework is a company surfaced as a portfolio company of paradigm and added to the API Evangelist
-  network as a stub for enrichment. Sector: crypto-tools. This profile is a lead awaiting the enrichment
-  pipeline.'
+description: >-
+  Dework is a Web3-native task-management and bounty platform for DAOs and
+  decentralized teams. Organizations create bounties, projects, and task boards;
+  contributors build an on-chain reputation profile, claim or apply to tasks,
+  and get paid in the DAO's own token or stablecoins from supported wallets
+  (Gnosis/Safe, MetaMask, Phantom, WalletConnect). Dework offers token- and
+  Discord-role gating, two-way Discord and GitHub sync, Notion and Coordinape
+  integrations, batch payments, reputation staking, roadmaps, and leaderboards.
+  It aggregates bounties and grants from hundreds of DAOs. The app is backed by
+  an Apollo GraphQL API at api.dework.xyz; product documentation lives on
+  GitBook. Backed by Paradigm.
 url: https://raw.githubusercontent.com/api-evangelist/dework/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -10,13 +18,44 @@ x-backed-by:
 - paradigm
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://app.dework.xyz/logo.png
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
 tags:
 - Company
 - Crypto Tools
-apis: []
+- Web3
+- DAO
+- Task Management
+- Bounties
+- Project Management
+- Decentralized Work
+apis:
+- name: Dework GraphQL API
+  description: >-
+    Dework runs a public GraphQL API (Apollo Server) at api.dework.xyz/graphql
+    that powers the Dework web app, plus a NestJS health endpoint at
+    api.dework.xyz/health. The endpoint is live but undocumented: schema
+    introspection is disabled in production and there is no published API
+    reference. Captured here as the real backend surface; no OpenAPI/GraphQL
+    schema could be harvested without fabrication.
+  humanURL: https://dework.gitbook.io/product-docs/
+  baseURL: https://api.dework.xyz/graphql
+  properties:
+  - type: GraphQL
+    url: https://api.dework.xyz/graphql
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
@@ -25,3 +64,28 @@ maintainers:
 common:
 - type: Website
   url: https://dework.xyz
+- type: Documentation
+  url: https://dework.gitbook.io/product-docs/
+- type: GettingStarted
+  url: https://dework.gitbook.io/product-docs/guides-for-orgs/getting-started-on-dework
+- type: GitHubOrganization
+  url: https://github.com/deworkxyz
+- type: SignUp
+  url: https://app.dework.xyz/auth
+- type: Support
+  url: https://discord.gg/rPEsPzShd7
+- type: Blog
+  url: https://mirror.xyz/0x761996F7258A19B6aCcF6f22e9Ca8CdAA92D75A6
+- type: Twitter
+  url: https://twitter.com/deworkxyz
+- type: LLMsTxt
+  url: llms/dework-llms.txt
+- type: Packages
+  url: packages/dework-packages.yml
+- type: DomainSecurity
+  url: security/dework-domain-security.yml
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

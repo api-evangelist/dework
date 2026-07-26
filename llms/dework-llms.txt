@@ -1,0 +1,46 @@
+# Dework Docs
+
+## Dework Docs
+
+- [What is Dework?](https://dework.gitbook.io/product-docs/what-is-dework.md): Get to know about Dework as a tool for DAOs and web3 projects!
+- [Getting started on Dework](https://dework.gitbook.io/product-docs/guides-for-orgs/getting-started-on-dework.md): Based on who you are there are two ways to start using the app
+- [Setup your first Space](https://dework.gitbook.io/product-docs/guides-for-orgs/setup-your-first-space.md): This will help you understand how to utilise the key Dework features
+- [Nested Workspaces](https://dework.gitbook.io/product-docs/guides-for-orgs/setup-your-first-space/nested-workspaces.md): Nest Spaces and Projects under an existing Space for finer control over your tasks
+- [Activity Feed](https://dework.gitbook.io/product-docs/guides-for-orgs/setup-your-first-space/activity-feed.md): Provide updates to your community/team, via Discord as well
+- [Permissions](https://dework.gitbook.io/product-docs/guides-for-orgs/setup-your-first-space/permissions.md): Flexibly set various permissions that match your needs
+- [Creating your first bounty](https://dework.gitbook.io/product-docs/guides-for-orgs/creating-your-first-bounty.md): Task + Reward = Bounty
+- [Connecting to Discord](https://dework.gitbook.io/product-docs/guides-for-orgs/connecting-to-discord.md): Keep everyone up to date on your project's progress
+- [Featuring a Role](https://dework.gitbook.io/product-docs/guides-for-orgs/featuring-a-role.md): You can feature roles to let contributors directly apply to them
+- [Manage Payments](https://dework.gitbook.io/product-docs/guides-for-orgs/manage-payments.md): Utilise various options to pay a reward on Dework
+- [Single Payment](https://dework.gitbook.io/product-docs/guides-for-orgs/manage-payments/single-payment.md): Pay rewards for individual bounties using supported wallets
+- [Batch Payments](https://dework.gitbook.io/product-docs/guides-for-orgs/manage-payments/batch-payments.md): Simplify your contributor payments, or just save on transaction fees
+- [Browsing DAOs on Dework](https://dework.gitbook.io/product-docs/guides-for-contributors/browsing-daos-on-dework.md): Find opportunities and communities to connect with
+- [Exploring Bounties](https://dework.gitbook.io/product-docs/guides-for-contributors/exploring-bounties.md): Browse the list of open bounties from DAOs and projects across Dework
+- [Task Feed](https://dework.gitbook.io/product-docs/guides-for-contributors/task-feed.md): Easily discover tasks that match your skills from DAOs you follow
+- [Reputation Staking](https://dework.gitbook.io/product-docs/guides-for-contributors/reputation-staking.md): Reputation Staking allows highly skilled contributors to quickly stand-out among applicants and make the client-contractor matching process easier.
+- [Your Inbox](https://dework.gitbook.io/product-docs/fundamentals/your-inbox.md): Stay up-to-date on your Dework tasks
+- [Payments](https://dework.gitbook.io/product-docs/fundamentals/payments.md): Ensure that you're setup to make or accept payments
+- [Task Types & Assignee Gating](https://dework.gitbook.io/product-docs/fundamentals/task-types-and-assignee-gating.md): There are various types of task types you can use in Dework to fit your team or community
+- [Task Views](https://dework.gitbook.io/product-docs/fundamentals/task-views.md): Edit & create new views to aid discovery, collaboration & action
+- [Org Community Suggestions](https://dework.gitbook.io/product-docs/fundamentals/org-community-suggestions.md): Community Suggestions aggregated at the organisation level
+- [Task Templates](https://dework.gitbook.io/product-docs/fundamentals/task-templates.md): Make templates that you can reuse when creating new tasks
+- [Project Roadmap](https://dework.gitbook.io/product-docs/fundamentals/project-roadmap.md): View all your ongoing projects on a timeline
+- [Roles Center](https://dework.gitbook.io/product-docs/fundamentals/roles-center.md): Feature specific Discord roles and let contributors apply to them
+- [Bookmarks](https://dework.gitbook.io/product-docs/fundamentals/bookmarks.md): Use bookmarks to save tasks you want to review or engage with later
+- [My Task Board](https://dework.gitbook.io/product-docs/fundamentals/my-task-board.md)
+- [Wallet Connect](https://dework.gitbook.io/product-docs/fundamentals/wallet-connect.md): Sign in to Dework on your mobile with your supported wallet app
+- [GitHub](https://dework.gitbook.io/product-docs/integrations/github.md): Two-way sync for your developers to be connected with your team and community
+- [Discord](https://dework.gitbook.io/product-docs/integrations/discord.md): Integrate with Discord to engage your server with Task Awareness, Discussions, Community Suggestions and more!
+- [Coordinape](https://dework.gitbook.io/product-docs/integrations/coordinape.md): Show Dework tasks on user profiles within your Coordinape circle
+- [Notion](https://dework.gitbook.io/product-docs/integrations/notion.md): Create bounties out of Notion tasks in 1-click
+- [Tasks](https://dework.gitbook.io/product-docs/workflows/tasks.md)
+- [Hosting Contests & Hackathons](https://dework.gitbook.io/product-docs/workflows/tasks/hosting-contests-and-hackathons.md)
+- [Running Recurring Flows](https://dework.gitbook.io/product-docs/workflows/tasks/running-recurring-flows.md)
+- [Operations](https://dework.gitbook.io/product-docs/workflows/operations.md)
+- [Using Leaderboards Effectively](https://dework.gitbook.io/product-docs/workflows/operations/using-leaderboards-effectively.md)
+- [Engaging Community Suggestions](https://dework.gitbook.io/product-docs/workflows/operations/engaging-community-suggestions.md)
+- [Managing Grants](https://dework.gitbook.io/product-docs/workflows/operations/managing-grants.md): Using Dework to promote and manage grants
+- [Bountied Issues with Github + Dework](https://dework.gitbook.io/product-docs/workflows/operations/bountied-issues-with-github-+-dework.md)
+- [Discord](https://dework.gitbook.io/product-docs/support/discord.md): This is the best way to get immediate support and connect with the team!
+- [In-app](https://dework.gitbook.io/product-docs/support/in-app.md): A simple way to share feedback or a question that gets sent to our Discord directly from the app
+- [Calendly](https://dework.gitbook.io/product-docs/support/calendly.md): Have more to discuss or share? Schedule a call!
