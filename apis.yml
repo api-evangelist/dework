@@ -44,6 +44,9 @@ image: https://app.dework.xyz/logo.png
 specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-18'
+x-docs-platform: gitbook
+x-docs-platform-confidence: medium
+x-docs-platform-checked: 2026-09-25
 tags:
 - Company
 - Crypto Tools
